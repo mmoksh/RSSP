@@ -4,6 +4,8 @@
 
 This  is the binary file for the implementation of the RSSP algorithm. The source code was written in C++, and compiled and tested on a Linux Ubuntu 14.04 machine.
 
+* https://dl.acm.org/citation.cfm?id=3233695
+
 ## Installation
 Change the permissions to make the binary file executable:
 
